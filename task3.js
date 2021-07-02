@@ -1,6 +1,6 @@
 // выполнить сложение различных типов (string+boolean, string+number, number+boolean)
-flag = true;
-str = "Hello!"
+const flag = true;
+const str = "Hello!"
 console.log(flag+str); // output: string 
 console.log(str+123); // output: string
 console.log (123+true+'\n'); // output: number 
